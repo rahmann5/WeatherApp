@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="need_location">Location is not enabled.</string>
+    <string name="need_wifi">Wifi is not enabled.</string>
+    <string name="need_default_loc">A default location has to be set to use without network GPS.</string>
+    <string name="Cancel">Cancel</string>
+    <string name="enable_wifi">Enable Wifi</string>
+    <string name="enable_location">Enable Location</string>
+    <string name="enable_default_location">Set Default Location</string>
+</resources>
